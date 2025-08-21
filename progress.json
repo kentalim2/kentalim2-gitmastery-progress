@@ -115,14 +115,5 @@
       "Great work creating a fork with Github!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1755735761.839299,
-    "completed_at": 1755735763.645307,
-    "comments": [
-      "The origin remote does not point to your fork!"
-    ],
-    "status": "Incomplete"
   }
 ]
